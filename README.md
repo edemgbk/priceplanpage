@@ -4,7 +4,7 @@ correct work
 
 ongoing
 
-A Stripe Subscription Payments Using React & AWS Lambda
+A Price Plan Subscription 
 
 the ff were used in development of project
 
