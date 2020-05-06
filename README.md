@@ -1,7 +1,9 @@
-# priceplanpage
+# price plan page
 
 correct work
+
 ongoing
+
 A Stripe Subscription Payments Using React & AWS Lambda
 
 the ff were used in development of project
