@@ -3,6 +3,7 @@
 correct work
 
 ongoing
+todo: change all remaining bootstrap( header and footer ) to reactstrap
 
 A Price Plan Subscription 
 
