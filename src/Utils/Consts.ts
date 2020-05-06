@@ -18,21 +18,21 @@ const ENTERPRISE_PRODUCT_ID = "prod_HEEkLfXPkF6xIE";
 export const PRODUCT_PLANS: Array<Product> = [
   {
     id: STANDARD_PRODUCT_ID,
-    name: "Standard",
+    name: "BRONZE",
     description: "For small teams.",
     users: "4 users",
     price: 10
   },
   {
     id: PREMIUM_PRODUCT_ID,
-    name: "Premium",
+    name: "SILVER",
     description: "For medium sized teams.",
     users: "20 users",
     price: 25
   },
   {
     id: ENTERPRISE_PRODUCT_ID,
-    name: "Enterprise",
+    name: "Gold",
     description: "For large teams.",
     users: "100+ users",
     price: 50
