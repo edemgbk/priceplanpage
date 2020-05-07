@@ -3,7 +3,7 @@
 correct work
 
 ongoing
-todo: change all remaining bootstrap new a reactstrap template
+todo: change  remaining bootstrap to reactstrap template
 
 A Price Plan Subscription 
 
