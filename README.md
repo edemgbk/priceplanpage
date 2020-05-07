@@ -2,7 +2,7 @@
 
 correct work
 
-todo: integrate new react template design
+
 
 
 A Price Plan Subscription 
