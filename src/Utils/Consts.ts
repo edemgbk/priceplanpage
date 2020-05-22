@@ -7,7 +7,7 @@ export type Product = {
 };
 
 /** Stripe publishable key */
-export const STRIPE_PUBLISHABLE_KEY = "pk_test_mncro4KcvbRRqB7FaAI5ZlTS";
+export const STRIPE_PUBLISHABLE_KEY = "";
 
 /** Stripe product plan ids */
 const STANDARD_PRODUCT_ID = "prod_HEEfUkjlDgqjvH";
